@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nejere — Welcome to My GitHub!
+# 👋 Hi, I'm Nejere, Welcome to My Portfolio!
 
 I'm a **Machine Learning Developer & Data Enthusiast** passionate about transforming raw data into meaningful insights and building ML systems that solve real-world problems.
 
@@ -89,4 +89,4 @@ Excel
 ---
 
 ## ✨ Fun Fact
-I believe learning should be documented with honesty and clarity — because someone else might be encouraged by the exact thing you struggled with yesterday.
+I believe learning should be documented with honesty and clarity because someone else might be encouraged by the exact thing you struggled with yesterday.
