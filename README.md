@@ -74,6 +74,8 @@ Excel
 
 ## 📊 GitHub Stats
 
+![Nejere's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnejere&show_icons=true&theme=default)
+
 ![Nejere's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
