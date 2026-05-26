@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nejere, Welcome to My Portfolio!
 
-I'm a **Machine Learning Developer & Data Enthusiast** passionate about transforming raw data into meaningful insights and building ML systems that solve real-world problems.
+I am a **Data Analyst, Business Intelligence Analyst and Data Scientist** passionate about transforming raw data into meaningful insights and building ML systems that solve real-world problems.
 
 I also teach **Data Science and Machine Learning** on my YouTube channel, where I break down complex concepts into simple, practical steps.  
 📺 **Currently:** I’m publishing a complete, step-by-step video breakdown of my **Binary Income Classification Project**.
